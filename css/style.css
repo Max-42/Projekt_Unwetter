@@ -10,3 +10,9 @@ body{
 blockquote{
     font-size: 70%;
 }
+
+.Großmutter{
+    font-size: 140%;
+    color: #ffff00;
+    font-weight: bold;
+}
