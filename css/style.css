@@ -11,8 +11,38 @@ blockquote{
     font-size: 70%;
 }
 
-.Großmutter{
+.Urahne{
     font-size: 140%;
     color: #ffff00;
     font-weight: bold;
+}
+.Großmutter{
+    font-size: 130%;
+    color: #b7ffb7;
+    font-weight: bold;
+}
+.Mutter{
+    font-size: 120%;
+    color: #ff9e3e;
+    font-weight: bold;
+}
+.Kind{
+    font-size: 110%;
+    color: #a8ffff;
+    font-weight: bold;
+}
+[id="_1"] {
+    text-align: left;
+}
+[id="_2"] {
+    text-align: center;
+}
+[id="_3"] {
+    text-align: right;
+}
+[id="_4"] {
+    text-align: left;
+}
+[id="_5"] {
+    text-align: center;
 }
