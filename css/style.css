@@ -14,26 +14,28 @@ blockquote{
     bottom: 0px;
     font-size: 70%;
 }
-
+h2.underline{
+    text-decoration: underline;
+}
 
 /* Colors */
 
-.Urahne{
+span.Urahne{
     font-size: 140%;
     color: #ffff00;
     font-weight: bold;
 }
-.Großmutter{
+span.Großmutter{
     font-size: 130%;
     color: #b7ffb7;
     font-weight: bold;
 }
-.Mutter{
+span.Mutter{
     font-size: 120%;
     color: #ff9e3e;
     font-weight: bold;
 }
-.Kind{
+span.Kind{
     font-size: 110%;
     color: #a8ffff;
     font-weight: bold;
