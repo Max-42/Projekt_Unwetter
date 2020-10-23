@@ -9,7 +9,14 @@ body{
 }
 blockquote{
     font-size: 70%;
+    margin-left: 0px;;
+    position: absolute;
+    bottom: 0px;
+    font-size: 70%;
 }
+
+
+/* Colors */
 
 .Urahne{
     font-size: 140%;
@@ -31,6 +38,9 @@ blockquote{
     color: #a8ffff;
     font-weight: bold;
 }
+
+
+/* Alignment */
 [id="_1"] {
     text-align: left;
 }
