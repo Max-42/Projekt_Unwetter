@@ -5,14 +5,18 @@ html {
 
 }
 body{
-    font-size: 100%
+    font-size: 100%;
+    margin-bottom: 90px;
 }
+/* Quellenangabe */
 blockquote{
     font-size: 70%;
-    margin-left: 0px;;
-    position: absolute;
-    bottom: 0px;
-    font-size: 70%;
+    margin-left: 0px;
+    position: fixed;
+    background-color: rgba(18, 0, 176, 0.5);
+    background: linear-gradient(28deg, rgba(18,0,176,1) 0%, rgba(18,0,176,1) 55%, rgba(0,0,0,0) 100%);
+    border-radius: 15px;
+    bottom: -1px;
 }
 h2.underline{
     text-decoration: underline;
